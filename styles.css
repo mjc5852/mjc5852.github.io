@@ -15,7 +15,7 @@ div {
     background-color: #8E70F9;
 }
 
-div.box {
+.box {
     border: 5px solid black;
     padding: 25px;
     margin: 12.5px;
@@ -27,7 +27,7 @@ div.box {
     background-color: #B5A1FC;
 }
 
-div.urlbox {
+.urlbox {
     border: 5px solid black;
     padding: 25px;
     margin: 12.5px;
